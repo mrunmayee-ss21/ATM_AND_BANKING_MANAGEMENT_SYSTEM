@@ -1,1 +1,3 @@
 ATM and manking management system- Project Information file
+The main goal is to create a secure, automated platform for remote cash and account management.
+It replaces physical bank teller visits with dynamic, 24/7 self-service transaction features.
